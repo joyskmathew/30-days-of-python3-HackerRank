@@ -8,7 +8,7 @@ To complete this challenge, you must save a line of input from stdin to a variab
 
 ## Code
 ```
-# Read a full line of input from stdin and save it to our dynamically typed variable, input_string.
+#E#E#ERead a full line of input from stdin and save it to our dynamically typed variable, input_string.
 input_string = input()
 
 # Print a string literal saying "Hello, World." to stdout.
